@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Aku Milikmu",
+  "base_artist": "Dewa 19",
+  "createdAt": "2026-03-12T12:12:22.166390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/01_Aku_Milikmu_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Judika",
+      "has_synced": true,
+      "path": "select/02_Aku_Milikmu_Judika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aku Milikmu (Malam Ini)",
+      "artist": "Pongki Barata",
+      "has_synced": true,
+      "path": "select/03_Aku_Milikmu_(Malam_Ini)_Pongki_Barata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/04_Aku_Milikmu_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aku Milikmu II",
+      "artist": "T.R.I.A.D",
+      "has_synced": true,
+      "path": "select/05_Aku_Milikmu_II_T.R.I.A.D.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aku Milikmu - Remastered 2023",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/06_Aku_Milikmu_-_Remastered_2023_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/07_Aku_Milikmu_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "aku milikmu",
+      "artist": "dewa 19",
+      "has_synced": true,
+      "path": "select/08_aku_milikmu_dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19 feat. Virzha",
+      "has_synced": true,
+      "path": "select/09_Aku_Milikmu_Dewa_19_feat._Virzha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "01 Aku Milikmu",
+      "artist": "DEWA 19",
+      "has_synced": true,
+      "path": "select/10_01_Aku_Milikmu_DEWA_19.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa",
+      "has_synced": true,
+      "path": "select/11_Aku_Milikmu_Dewa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aku Milikmu Malam Ini",
+      "artist": "Felix",
+      "has_synced": true,
+      "path": "select/12_Aku_Milikmu_Malam_Ini_Felix.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Donnie Sibarani",
+      "has_synced": true,
+      "path": "select/13_Aku_Milikmu_Donnie_Sibarani.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aku MilikMu",
+      "artist": "Giving My Best",
+      "has_synced": true,
+      "path": "select/14_Aku_MilikMu_Giving_My_Best.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/15_Aku_Milikmu_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aku MilikMu Yesus Tuhanku (Kj 362) (Live)",
+      "artist": "IGNITE GKI",
+      "has_synced": true,
+      "path": "select/16_Aku_MilikMu_Yesus_Tuhanku_(Kj_362)_(Live)_IGNITE_GKI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aku Milikmu [Live]",
+      "artist": "Dewa",
+      "has_synced": true,
+      "path": "select/17_Aku_Milikmu_[Live]_Dewa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/18_Aku_Milikmu_Dewa_19.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "has_synced": false,
+      "path": "select/pl_01_Aku_Milikmu_Dewa_19.txt"
+    }
+  ]
+}
